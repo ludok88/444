@@ -1,0 +1,16 @@
+import React from "react"
+function MyInfo() {
+    return (
+        <div>
+            <h1>Гурняк Людмила</h1>
+            <p>Студентка 4 курсу Сумського державного університету</p>
+            <p>Міста, які я б хотіла відвідати:</p>
+            <ul>
+                <li>Париж</li>
+                <li>Лондон</li>
+                <li>Нью-Йорк</li>
+            </ul>
+        </div>
+    )
+}
+export default MyInfo
